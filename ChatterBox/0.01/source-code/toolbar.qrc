@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>setting.png</file>
+        <file>search.png</file>
+        <file>addfriend.png</file>
+        <file>deletefriend.png</file>
+        <file>message.png</file>
+    </qresource>
+</RCC>
